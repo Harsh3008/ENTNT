@@ -1,4 +1,4 @@
-#ENTNT Erp System
+# ENTNT Erp System
 
 The goal of this project is to create a simplified interface for an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. The system will consist of the following pages:
 
