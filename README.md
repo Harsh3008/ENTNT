@@ -31,3 +31,12 @@ Orders Management Viewing Order Details: Click on the "View Details" button next
 
 Contributing Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
+Screenshots
+
+<img width="1440" alt="Screenshot 2024-03-15 at 11 04 16 PM" src="https://github.com/Harsh3008/ENTNT/assets/72466845/142c02a3-12a9-467a-9b8b-ba2be863ff56">
+
+
+<img width="1440" alt="Screenshot 2024-03-15 at 11 04 33 PM" src="https://github.com/Harsh3008/ENTNT/assets/72466845/b7e38c16-8828-403b-93a4-17b62cd93982">
+
+
+<img width="1440" alt="Screenshot 2024-03-15 at 11 04 55 PM" src="https://github.com/Harsh3008/ENTNT/assets/72466845/c131df4e-4d85-4e5d-9271-d54e4f9f5a5b">
